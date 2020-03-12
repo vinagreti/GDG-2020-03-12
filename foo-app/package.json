@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "foo-styles": "^1.0.0"
+    "foo-styles": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
