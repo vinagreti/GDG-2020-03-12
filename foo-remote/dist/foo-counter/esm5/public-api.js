@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of foo-counter
+ */
+export * from './lib/foo-counter.component';
+export * from './lib/foo-counter.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2Zvby1jb3VudGVyLyIsInNvdXJjZXMiOlsicHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsNkJBQTZCLENBQUM7QUFDNUMsY0FBYywwQkFBMEIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgZm9vLWNvdW50ZXJcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9mb28tY291bnRlci5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvZm9vLWNvdW50ZXIubW9kdWxlJztcbiJdfQ==

@@ -1,0 +1,11 @@
+<ng-container [ngSwitch]="(counter$ | async) ? true : false">
+  <form *ngSwitchCase="true" (submit)="stop()">
+    <h2>{{ counter$ | async }}s</h2>
+    <button type="submit">Parar</button>
+  </form>
+
+  <form *ngSwitchCase="false" (submit)="start()">
+    <h2>{{ lastTotal }}s</h2>
+    <button type="submit">Contar</button>
+  </form>
+</ng-container>
