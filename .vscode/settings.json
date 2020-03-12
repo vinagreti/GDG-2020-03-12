@@ -1,0 +1,18 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "open-in-browser.default": "Chrome",
+  "html.mirrorCursorOnMatchingTag": false,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.maxColumn": 200,
+  "editor.minimap.showSlider": "always",
+  "explorer.openEditors.visible": 0,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "editor.cursorBlinking": "phase",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "explorer.compactFolders": true,
+  "terminal.integrated.shell.windows": "D:\\Program Files\\Git\\bin\\bash.exe"
+}
