@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { FooCounterModule } from '@foo/counter';
 import { AppComponent } from './app.component';
-import { FooCounterModule } from './components/foo-counter/foo-counter.module';
 
 @NgModule({
   declarations: [AppComponent],

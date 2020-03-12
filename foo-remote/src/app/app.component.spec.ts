@@ -1,6 +1,6 @@
 import { async, TestBed } from '@angular/core/testing';
+import { FooCounterModule } from '@foo/counter';
 import { AppComponent } from './app.component';
-import { FooCounterModule } from './components/foo-counter/foo-counter.module';
 
 describe('AppComponent', () => {
   beforeEach(async(() => {
